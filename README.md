@@ -1,5 +1,7 @@
 # my_job
 
+## SEARCH AND BEYOND WITH ELASTICSEARCH 
++ https://events.drupal.org/dublin2016/sessions/search-and-beyond-elasticsearch
 ## Модальные окна
 
 + http://www.jover.be/2016/03/09/drupal-8-modal/
