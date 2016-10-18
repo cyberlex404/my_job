@@ -5,3 +5,10 @@
 Flight Pattern
 
 Flight Stop
+composer create-project drupal-composer/drupal-project:8.2.1 billing2.braslavskie.ru --stability dev --no-interaction
+
+composer create-project drupal/drupal billing2.braslavskie.ru --stability stable
+
+composer create-project drupal/drupal billing23.braslavskie.ru 8.2.1
+
+http://niklan.net/blog/125
