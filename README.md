@@ -28,3 +28,4 @@
 ## Super Link
  + [Injecting Dependencies into Drupal 8 plugins](https://www.previousnext.com.au/blog/injecting-dependencies-drupal-8-plugins)
  + http://blog.openlucius.com/en/blog/dependency-injection-drupal-8-introduction
+ + https://ffwagency.com/blog/drupal-8-services-dependency-injection-and-decoupling-your-code
