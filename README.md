@@ -23,3 +23,7 @@
 + Lesson 9 - Creating Elements, Theming Elements, and Managing Front-end Libraries
 + Lesson 10 - Unit and Functional Testing
 + Lesson 11 - Review of Dependency Injection
+
+
+## Super Link
+ + [Injecting Dependencies into Drupal 8 plugins](https://www.previousnext.com.au/blog/injecting-dependencies-drupal-8-plugins)
