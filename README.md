@@ -33,3 +33,7 @@
 
 ## nginx
 + https://www.howtoforge.com/tutorial/how-to-install-drupal-with-nginx-and-ssl-on-ubuntu/#step-install-nginx-and-phpfpm
+
+
+- static : \Drupal::entityTypeManager()->getStorage('node')->load($nid);
+- dependency injection : $container->get('entity_type.manager')->getStorage('node')->load($nid);
