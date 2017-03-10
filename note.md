@@ -16,3 +16,6 @@ http://niklan.net/blog/125
 ### Post install load config
 $config_installer = \Drupal::service('config.installer');
 $config_installer->installDefaultConfig('module', 'gallery');
+
+### Emoji
+http://apps.timwhitlock.info/emoji/tables/unicode
