@@ -19,3 +19,6 @@ $config_installer->installDefaultConfig('module', 'gallery');
 
 ### Emoji
 http://apps.timwhitlock.info/emoji/tables/unicode
+
+##bootstrap @media
+http://stackoverflow.com/questions/32545506/bootstrap-4-how-to-use-media-query-mixing
