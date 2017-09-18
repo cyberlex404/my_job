@@ -20,7 +20,7 @@ Entity Field types, Data types
 + __map__: Can contain any number of arbitrary properties, stored as a serialized string
 + __text_with_summary__ : Text area field with summery
 
-    $fields['display_number'] = BaseFieldDefinition::create('telephone')
+    $fields['telephone'] = BaseFieldDefinition::create('telephone')
           ->setLabel(t('Display Number'))
           ->setDescription((t('The phone number to display')))
           ->setDefaultValue('')
