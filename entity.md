@@ -19,3 +19,13 @@ Entity Field types, Data types
 + __entity_reference__: An entity reference with a target_id and a computed entity field property. entity_reference.module provides widgets and formatters when enabled.
 + __map__: Can contain any number of arbitrary properties, stored as a serialized string
 + __text_with_summary__ : Text area field with summery
+
+`$fields['display_number'] = BaseFieldDefinition::create('telephone')
+      ->setLabel(t('Display Number'))
+      ->setDescription((t('The phone number to display')))
+      ->setDefaultValue('')
+      ->setDisplayOptions('form', array(
+        'type' => 'telephone_default',
+        'weight' => 0,
+      ))
+      ->setDisplayConfigurable('form', TRUE);`
