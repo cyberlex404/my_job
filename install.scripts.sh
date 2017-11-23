@@ -13,3 +13,17 @@ drupal site:install  standard  \
 --account-name="mail"  \
 --account-mail="mail@cyberlex404.com"  \
 --account-pass="__pass__"
+
+
+composer require drupal/ctools \
+drupal/devel \
+drupal/metatag \
+drupal/page_manager \
+drupal/panels \
+drupal/rules:dev-3.x \
+drupal/admin_toolbar \
+drupal/bootstrap \
+drupal/webform \
+drupal/google_analytics \
+drupal/pathauto \
+drupal/yandex_metrics:3.x
