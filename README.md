@@ -6,6 +6,7 @@
 
 + http://www.jover.be/2016/03/09/drupal-8-modal/
 + http://www.grisendo.com/en/modal-dialogs-drupal-8
++ https://codedump.io/share/Om4VeSnMkw68/1/add-custom-class-from-link-to-drupal-modal-drupal-8-with-bootstrap-theme Как добавить класс js-ом на модальное окно
 
 ## Building modules with Drupal 8
 [Building modules with Drupal 8 Menu](https://docs.acquia.com/articles/building-drupal-8-modules)
